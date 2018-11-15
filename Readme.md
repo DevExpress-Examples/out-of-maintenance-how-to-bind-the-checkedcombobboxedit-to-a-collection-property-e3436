@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Customer.cs](./CS/CheckedComboBoxBoundToCollection/Customer.cs) (VB: [Customer.vb](./VB/CheckedComboBoxBoundToCollection/Customer.vb))
+<!-- default file list end -->
 # How to bind the CheckedCombobBoxEdit to a collection property
 
 
